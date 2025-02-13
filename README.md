@@ -32,6 +32,7 @@ Este repositório contém as soluções dos exercícios realizados durante o cur
 - [x] Formatação de strings
 
 ### Parte 5: 
+- [ ] Referências de variáveis
 - [ ] Dicionário
 - [ ] Tuplas
 
