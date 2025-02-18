@@ -9,36 +9,17 @@ Este repositório contém as soluções dos exercícios realizados durante o cur
 
 ## 📌 Exercícios
 
-### Parte 1: 
-- [x] Entrada e saída de dados
-- [x] Operadores atirmáticos 
-- [x] Uso de variáveis
-- [x] Estruturas condicionais (if-elif-else)
+| **Partes** | Conteúdo |
+|------------|---------------|
+| **Parte 1** | Entrada e saída de dados, Operadores atirmáticos, Uso de variáveis e Estruturas condicionais (if-elif-else) |
+| **Parte 2** | Terminologias (declarações, blocos, sintaxe, funções, expressões, tipos de dados e depuração), Operadores lógicos e Loop while|
+| **Parte 3** | Loop while + varíavel de controle, Manipulação de strings + substrings, Loop com break e continue e Definindo funções |
+| **Parte 4** | Listas, Loop for e  Formatação de strings |
+| **Parte 5** | Referências de variáveis, Dicionário e Tuplas |
+| **Parte 6** |  |
+| **Parte 7** |  |
 
-### Parte 2: 
-- [x] Terminologias (declarações, blocos, sintaxe, funções, expressões, tipos de dados e depuração)
-- [x] Operadores lógicos
-- [x] Loop while
 
-### Parte 3: 
-- [x] Loop while + varíavel de controle
-- [x] Manipulação de strings + substrings
-- [x] Loop com break e continue
-- [x] Definindo funções
-
-### Parte 4: 
-- [x] Listas
-- [x] Loop for
-- [x] Formatação de strings
-
-### Parte 5: 
-- [ ] Referências de variáveis
-- [ ] Dicionário
-- [ ] Tuplas
-
-### Parte 6: 
-
-### Parte 7: 
 
       
 ## 💻 Pré-requisitos
