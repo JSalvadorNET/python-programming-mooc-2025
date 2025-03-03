@@ -12,7 +12,7 @@ Este repositório contém as soluções dos exercícios realizados durante o cur
 | **Partes** | Conteúdo |
 |------------|---------------|
 | **Parte 1** | Entrada e saída de dados, Operadores atirmáticos, Uso de variáveis e Estruturas condicionais (if-elif-else) |
-| **Parte 2** | Terminologias (declarações, blocos, sintaxe, funções, expressões, tipos de dados e depuração), Operadores lógicos e Loop while|
+| **Parte 2** | Terminologias (declarações, blocos, sintaxe, expressões, tipos de dados e depuração), Operadores lógicos e Loop while|
 | **Parte 3** | Loop while + varíavel de controle, Manipulação de strings + substrings, Loop com break e continue e Definindo funções |
 | **Parte 4** | Listas, Loop for e  Formatação de strings |
 | **Parte 5** | Referências de variáveis, Dicionário e Tuplas |
@@ -43,7 +43,7 @@ This repository contains the solutions to the exercises carried out during the P
 | **Parts** | Content |
 |------------|---------------|
 | **Part 1** | Data input and output, Aritmetic operators, Variables and Conditional structures (if-elif-else) |
-| **Part 2** | Terminology (declarations, blocks, syntax, functions, expressions, data types and debugging), Logical operators and While loop (boolean)|
+| **Part 2** | Terminology (declarations, blocks, syntax, expressions, data types and debugging), Logical operators and While loop (boolean)|
 | **Part 3** | While loop (with control variable), Break, Continue, String manipulation + substrings and Functions |
 | **Part 4** | Lists, For loop and String formatting |
 | **Part 5** | Variable references, Dictionary and Tuples |
