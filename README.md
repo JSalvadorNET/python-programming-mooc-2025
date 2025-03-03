@@ -39,7 +39,7 @@ Este repositório contém as soluções dos exercícios realizados durante o cur
 
 This repository contains the solutions to the exercises carried out during the Python Programming MOOC 2025 course provided by the University of Helsinki, Finland. The course covers everything from basic concepts to more advanced topics in the Python language.
 
-### 📌 Introdução
+### 📌 Introduction
 
 | **Parts** | Content |
 |------------|---------------|
