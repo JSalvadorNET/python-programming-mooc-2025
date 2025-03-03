@@ -16,8 +16,8 @@ Este repositório contém as soluções dos exercícios realizados durante o cur
 | **Parte 3** | Loop while + varíavel de controle, Manipulação de strings + substrings, Loop com break e continue e Definindo funções |
 | **Parte 4** | Listas, Loop for e  Formatação de strings |
 | **Parte 5** | Referências de variáveis, Dicionário e Tuplas |
-| **Parte 6** | Ler e escrever arquivos, Tratamento de erros e variáveis locais/globais |
-| **Parte 7** |  |
+| **Parte 6** | Ler e escrever arquivos, Tratamento de erros e Variáveis locais/globais |
+| **Parte 7** | Módulos, Aleatoriedade, Datas e Horários e Processamento de dados
 
 
 
